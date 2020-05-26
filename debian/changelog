@@ -1,0 +1,6 @@
+jdk-9 (9.0.4-1) experimental; urgency=low
+
+  * Converted from .rpm format to .deb by alien version 8.95
+  
+
+ -- Andrey ``Bass'' Shcheglov <andrewbass@gmail.com>  Tue, 26 May 2020 22:28:31 +0300

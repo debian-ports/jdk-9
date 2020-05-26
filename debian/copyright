@@ -1,0 +1,34 @@
+This package was debianized by the alien program by converting
+a binary .rpm package on Tue, 26 May 2020 22:28:31 +0300
+
+Copyright: http://java.com/license
+
+Information from the binary package:
+Name        : jdk-9
+Epoch       : 2000
+Version     : 9.0.4
+Release     : ga
+Architecture: x86_64
+Install Date: (not installed)
+Group       : Development/Tools
+Size        : 578462958
+License     : http://java.com/license
+Signature   : (none)
+Source RPM  : jdk-9.0.4-9.0.4-ga.src.rpm
+Build Date  : Ср 20 дек 2017 05:17:54
+Build Host  : sca00idp.us.oracle.com
+Relocations : /usr/java 
+Packager    : Java Software <jre-comments@java.sun.com>
+Vendor      : Oracle Corporation
+URL         : URL_REF
+Summary     : Java Platform Standard Edition Development Kit
+Description :
+The Java Platform Standard Edition Development Kit (JDK) includes both
+the runtime environment (Java virtual machine, the Java platform classes
+and supporting files) and development tools (compilers, debuggers,
+tool libraries and other tools).
+
+The JDK is a development environment for building applications, applets
+and components that can be deployed with the Java Platform Standard
+Edition Runtime Environment.
+

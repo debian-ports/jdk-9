@@ -1,0 +1,5 @@
+/debian/.debhelper/
+/debian/files
+/debian/jdk-9.*
+/debian/jdk-9/
+/usr/lib/jvm/jdk-9/

@@ -1,0 +1,28 @@
+Source: jdk-9
+Section: java
+Priority: optional
+Maintainer: Andrey ``Bass'' Shcheglov <andrewbass@gmail.com>
+
+Package: jdk-9
+Architecture: amd64
+Depends: java-common, ${shlibs:Depends}
+Provides: java-browser-plugin, java-compiler,
+ java-runtime, java-runtime-headless, java-sdk, java-sdk-headless,
+ java-virtual-machine, java2-compiler,
+ java2-runtime, java2-runtime-headless, java2-sdk, java2-sdk-headless,
+ java5-runtime, java5-runtime-headless, java5-sdk, java5-sdk-headless,
+ java6-runtime, java6-runtime-headless, java6-sdk, java6-sdk-headless,
+ java7-runtime, java7-runtime-headless, java7-sdk, java7-sdk-headless,
+ java8-runtime, java8-runtime-headless, java8-sdk, java8-sdk-headless,
+ java9-runtime, java9-runtime-headless, java9-sdk, java9-sdk-headless
+Description: Java Platform Standard Edition Development Kit
+ The Java Platform Standard Edition Development Kit (JDK) includes both
+ the runtime environment (Java Virtual Machine, the Java platform classes
+ and supporting files) and development tools (compilers, debuggers,
+ tool libraries and other tools).
+ .
+ The JDK is a development environment for building applications, applets
+ and components that can be deployed with the Java Platform Standard
+ Edition Runtime Environment.
+ .
+ (Converted from a rpm package by alien version 8.95.)
